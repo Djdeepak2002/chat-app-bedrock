@@ -26,18 +26,7 @@ Modular code structure for easy scalability and maintainability.
 **Structured Directory:** Organizes frontend and backend components for better maintainability.
 **Package Management**: Uses package.json and package-lock.json to manage dependencies effectively.
 
-📂 **Directory Structure**
-djdeepak2002-chat-app-bedrock/
-│── Chat-App-Bedrock/ (Frontend)
-│   ├── src/ (React components, styles, assets)
-│   ├── public/ (Static files)
-│   ├── package.json (Frontend dependencies)
-│   ├── vite.config.js (Vite configuration)
-│── backend/ (Server-side logic)
-│   ├── server.js (Express server)
-│   ├── index.js (Main entry point)
-│   ├── .env (Environment variables)
-│   ├── package.json (Backend dependencies)
+
 
 
 **Installation**
